@@ -1,0 +1,4 @@
+Category,Model Count,Avg Params (M),Avg Load Time (s),Avg Speed@512 (tok/s),Avg Max Seq Length,Best Model
+BERT Family,18,148.5,0.52,3922,512,distilbert-base-uncased
+Generative LLM,15,1012.1,5.21,2650,1638,pythia-70m
+Other,1,139.4,0.87,3479,1024,bart-base

@@ -1,0 +1,30 @@
+# Transformer Scalability Crisis Analysis Requirements
+
+# Core data analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Statistical analysis
+scipy>=1.9.0
+scikit-learn>=1.1.0
+
+# Jupyter notebook support (optional)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Data processing utilities
+openpyxl>=3.0.0  # For Excel file support
+xlrd>=2.0.0      # For reading Excel files
+
+# Development and testing (optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0
+
+# Documentation (optional)
+sphinx>=4.0.0
+sphinx-rtd-theme>=1.0.0

@@ -1,0 +1,35 @@
+Model,128,512,1024,2048,Max Working Length,Architecture Type
+distilbert-base-uncased,✓ 5866,✓ 11213,✗ OOM,✗ OOM,512,BERT Family
+distilbert-base-cased,✓ 5641,✓ 10974,✗ OOM,✗ OOM,512,BERT Family
+distilroberta-base,✓ 5548,✓ 10687,✗ OOM,✗ OOM,512,BERT Family
+albert-base-v1,✓ 2778,✓ 5185,✗ OOM,✗ OOM,512,BERT Family
+albert-base-v2,✓ 2072,✓ 3763,✗ OOM,✗ OOM,512,BERT Family
+albert-large-v2,✓ 708,✓ 1280,✗ OOM,✗ OOM,512,BERT Family
+squeezebert-uncased,✓ 2609,✓ 3623,✗ OOM,✗ OOM,512,BERT Family
+DialoGPT-small,✓ 2499,✓ 3952,✓ 4489,✗ OOM,1024,Generative LLM
+DialoGPT-medium,✓ 809,✓ 1336,✓ 1393,✗ OOM,1024,Generative LLM
+bert-base-uncased,✓ 1576,✓ 3033,✗ OOM,✗ OOM,512,BERT Family
+bert-base-cased,✓ 1600,✓ 3030,✗ OOM,✗ OOM,512,BERT Family
+bert-large-uncased,✓ 672,✓ 1216,✗ OOM,✗ OOM,512,BERT Family
+bert-large-cased,✓ 667,✓ 1222,✗ OOM,✗ OOM,512,BERT Family
+roberta-base,✓ 1617,✓ 3314,✗ OOM,✗ OOM,512,BERT Family
+roberta-large,✓ 654,✓ 1202,✗ OOM,✗ OOM,512,BERT Family
+bart-base,✓ 1399,✓ 3218,✓ 3994,✗ OOM,1024,Other
+deberta-base,✓ 806,✓ 1382,✗ OOM,✗ OOM,512,BERT Family
+deberta-large,✓ 371,✓ 568,✗ OOM,✗ OOM,512,BERT Family
+electra-small-discriminator,✓ 2979,✓ 4719,✗ OOM,✗ OOM,512,BERT Family
+electra-base-discriminator,✓ 1492,✓ 2990,✗ OOM,✗ OOM,512,BERT Family
+electra-large-discriminator,✓ 623,✓ 1053,✗ OOM,✗ OOM,512,BERT Family
+gpt2,✓ 1618,✓ 3221,✓ 3668,✗ OOM,1024,Generative LLM
+gpt2-medium,✓ 733,✓ 1358,✓ 1336,✗ OOM,1024,Generative LLM
+gpt2-large,✓ 458,✓ 793,✓ 714,✗ OOM,1024,Generative LLM
+DialoGPT-large,✓ 513,✓ 815,✓ 706,✗ OOM,1024,Generative LLM
+gpt-neo-125m,✓ 1314,✓ 2518,✓ 2853,✓ 2455,2048,Generative LLM
+gpt-neo-1.3B,✓ 361,✓ 551,✓ 571,✓ 474,2048,Generative LLM
+gpt-j-6b,✓ 106,✓ 150,✓ 159,✓ 118,2048,Generative LLM
+pythia-70m,✓ 7693,✓ 13731,✓ 14794,✓ 14644,2048,Generative LLM
+pythia-160m,✓ 2439,✓ 4278,✓ 4786,✓ 4048,2048,Generative LLM
+pythia-410m,✓ 912,✓ 1639,✓ 1758,✓ 1622,2048,Generative LLM
+pythia-1b,✓ 699,✓ 937,✓ 1064,✓ 1036,2048,Generative LLM
+pythia-1.4b,✓ 484,✓ 627,✓ 697,✓ 646,2048,Generative LLM
+pythia-2.8b,✓ 256,✓ 319,✓ 327,✓ 296,2048,Generative LLM

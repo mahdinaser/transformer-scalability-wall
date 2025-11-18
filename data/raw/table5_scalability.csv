@@ -1,0 +1,119 @@
+Model,Max Seq Length,Scaling Complexity,Architecture Type,Efficiency Rating
+distilbert-base-uncased,512,Linear,BERT Family,Medium
+distilbert-base-cased,512,Linear,BERT Family,Medium
+distilroberta-base,512,Linear,BERT Family,Medium
+albert-base-v1,512,Linear,BERT Family,Medium
+albert-base-v2,512,Linear,BERT Family,Medium
+albert-large-v2,512,Linear,BERT Family,Medium
+squeezebert-uncased,512,Linear,BERT Family,Medium
+electra-small-discriminator,512,Linear,BERT Family,Medium
+DialoGPT-small,1024,Linear,Generative LLM,High
+TinyLlama-1.1B-Chat-v1.0,1024,Linear,Generative LLM,High
+phi-1,1024,Linear,Small LLM,High
+phi-1_5,1024,Linear,Small LLM,High
+bert-base-uncased,512,Linear,BERT Family,Medium
+bert-base-cased,512,Linear,BERT Family,Medium
+bert-large-uncased,512,Linear,BERT Family,Medium
+bert-large-cased,512,Linear,BERT Family,Medium
+roberta-base,512,Linear,BERT Family,Medium
+roberta-large,512,Linear,BERT Family,Medium
+deberta-base,512,Linear,BERT Family,Medium
+deberta-large,512,Linear,BERT Family,Medium
+electra-base-discriminator,512,Linear,BERT Family,Medium
+electra-large-discriminator,512,Linear,BERT Family,Medium
+bart-base,1024,Linear,Other,High
+xlm-roberta-base,512,Linear,BERT Family,Medium
+xlm-roberta-large,512,Linear,BERT Family,Medium
+distiluse-base-multilingual-cased,512,Linear,Compressed,Medium
+gpt2,1024,Linear,Generative LLM,High
+gpt2-medium,1024,Linear,Generative LLM,High
+gpt2-large,1024,Linear,Generative LLM,High
+DialoGPT-medium,1024,Linear,Generative LLM,High
+DialoGPT-large,1024,Linear,Generative LLM,High
+gpt-neo-125m,1024,Linear,Generative LLM,High
+gpt-neo-1.3B,1024,Linear,Generative LLM,High
+gpt-j-6b,1024,Linear,Generative LLM,High
+pythia-70m,1024,Linear,Generative LLM,High
+pythia-160m,1024,Linear,Generative LLM,High
+pythia-410m,1024,Linear,Generative LLM,High
+pythia-1b,1024,Linear,Generative LLM,High
+pythia-1.4b,1024,Linear,Generative LLM,High
+pythia-2.8b,1024,Linear,Generative LLM,High
+opt-125m,1024,Linear,Generative LLM,High
+opt-350m,1024,Linear,Generative LLM,High
+opt-1.3b,1024,Linear,Generative LLM,High
+opt-2.7b,1024,Linear,Generative LLM,High
+opt-6.7b,1024,Linear,Generative LLM,High
+opt-6.7b,1024,Linear,Generative LLM,High
+longformer-base-4096,1024,Linear,Efficient Transformer,High
+longformer-base-4096,1024,Linear,Efficient Transformer,High
+longformer-large-4096,1024,Linear,Efficient Transformer,High
+longformer-large-4096,1024,Linear,Efficient Transformer,High
+prophetnet-large-uncased,< 128,Limited,Other,Very Low
+prophetnet-large-uncased,< 128,Limited,Other,Very Low
+bart-large,1024,Linear,Other,High
+bart-large,1024,Linear,Other,High
+pegasus-xsum,< 128,Limited,Other,Very Low
+pegasus-xsum,< 128,Limited,Other,Very Low
+bloom-560m,512,Linear,Generative LLM,Medium
+bloom-560m,512,Linear,Generative LLM,Medium
+bloom-1b1,512,Linear,Generative LLM,Medium
+bloom-1b1,512,Linear,Generative LLM,Medium
+bloom-1b7,512,Linear,Generative LLM,Medium
+bloom-1b7,512,Linear,Generative LLM,Medium
+bloom-3b,512,Linear,Generative LLM,Medium
+bloom-3b,512,Linear,Generative LLM,Medium
+bloom-7b1,512,Linear,Generative LLM,Medium
+bloom-7b1,512,Linear,Generative LLM,Medium
+bloomz-560m,512,Linear,Generative LLM,Medium
+bloomz-560m,512,Linear,Generative LLM,Medium
+bloomz-1b1,512,Linear,Generative LLM,Medium
+bloomz-1b1,512,Linear,Generative LLM,Medium
+bloomz-3b,512,Linear,Generative LLM,Medium
+bloomz-3b,512,Linear,Generative LLM,Medium
+Cerebras-GPT-111M,1024,Linear,Generative LLM,High
+Cerebras-GPT-111M,1024,Linear,Generative LLM,High
+Cerebras-GPT-256M,1024,Linear,Generative LLM,High
+Cerebras-GPT-256M,1024,Linear,Generative LLM,High
+Cerebras-GPT-590M,1024,Linear,Generative LLM,High
+Cerebras-GPT-590M,1024,Linear,Generative LLM,High
+Cerebras-GPT-1.3B,1024,Linear,Generative LLM,High
+Cerebras-GPT-1.3B,1024,Linear,Generative LLM,High
+Cerebras-GPT-2.7B,1024,Linear,Generative LLM,High
+Cerebras-GPT-2.7B,1024,Linear,Generative LLM,High
+Cerebras-GPT-6.7B,1024,Linear,Generative LLM,High
+Cerebras-GPT-6.7B,1024,Linear,Generative LLM,High
+phi-2,1024,Linear,Small LLM,High
+phi-2,1024,Linear,Small LLM,High
+stablelm-base-alpha-3b,1024,Linear,Other,High
+stablelm-base-alpha-3b,1024,Linear,Other,High
+codebert-base,512,Linear,BERT Family,Medium
+codebert-base,512,Linear,BERT Family,Medium
+codet5-base,< 128,Limited,Code Model,Very Low
+codet5-base,< 128,Limited,Code Model,Very Low
+scibert_scivocab_uncased,512,Linear,BERT Family,Medium
+scibert_scivocab_uncased,512,Linear,BERT Family,Medium
+Bio_ClinicalBERT,512,Linear,BERT Family,Medium
+Bio_ClinicalBERT,512,Linear,BERT Family,Medium
+biobert-base-cased-v1.1,512,Linear,BERT Family,Medium
+biobert-base-cased-v1.1,512,Linear,BERT Family,Medium
+finbert,512,Linear,BERT Family,Medium
+finbert,512,Linear,BERT Family,Medium
+legal-bert-base-uncased,512,Linear,BERT Family,Medium
+legal-bert-base-uncased,512,Linear,BERT Family,Medium
+CodeBERTa-small-v1,512,Linear,BERT Family,Medium
+CodeBERTa-small-v1,512,Linear,BERT Family,Medium
+GODEL-v1_1-base-seq2seq,< 128,Limited,Other,Very Low
+GODEL-v1_1-base-seq2seq,< 128,Limited,Other,Very Low
+blenderbot-400M-distill,< 128,Limited,Compressed,Very Low
+blenderbot-400M-distill,< 128,Limited,Compressed,Very Low
+blenderbot-1B-distill,< 128,Limited,Compressed,Very Low
+blenderbot-1B-distill,< 128,Limited,Compressed,Very Low
+blenderbot-3B,< 128,Limited,Other,Very Low
+blenderbot-3B,< 128,Limited,Other,Very Low
+pygmalion-350m,1024,Linear,Other,High
+pygmalion-350m,1024,Linear,Other,High
+pygmalion-1.3b,1024,Linear,Other,High
+pygmalion-1.3b,1024,Linear,Other,High
+pygmalion-2.7b,1024,Linear,Other,High
+pygmalion-2.7b,1024,Linear,Other,High

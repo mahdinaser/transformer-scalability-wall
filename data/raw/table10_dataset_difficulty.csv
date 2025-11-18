@@ -1,0 +1,24 @@
+Rank,Dataset,Task Type,Success Rate,Avg Speed (tok/s),Models Tested,Difficulty
+1,Imdb Default,Sentiment,20.0%,3348,34,Very Hard
+2,Glue Sst2,Sentiment,20.0%,3263,34,Very Hard
+3,Glue Cola,Grammar,20.0%,3261,34,Very Hard
+4,Glue Mrpc,Paraphrase,20.0%,3254,34,Very Hard
+5,Yelp Polarity Defaul,Sentiment,20.0%,3237,34,Very Hard
+6,Squad Default,Qa,20.0%,3259,34,Very Hard
+7,Squad V2 Default,Qa,20.0%,3234,34,Very Hard
+8,Bookcorpus Default,Lm,20.0%,3234,34,Very Hard
+9,Scientific Papers Ar,Long_Text,20.0%,3257,34,Very Hard
+10,Big Patent G,Long_Text,20.0%,3209,34,Very Hard
+11,Cnn Dailymail 3.0.0,Summarization,20.0%,3199,34,Very Hard
+12,Xsum Default,Summarization,20.0%,3238,34,Very Hard
+13,Wmt14 De-En,Translation,20.0%,3235,34,Very Hard
+14,Opus Books En-Fr,Translation,20.0%,3212,34,Very Hard
+15,Code Search Net Pyth,Code,20.0%,3194,34,Very Hard
+16,Financial Phrasebank,Financial,20.0%,3221,34,Very Hard
+17,Empathetic Dialogues,Conversation,20.0%,3216,34,Very Hard
+18,Pubmed Qa Pqa Labele,Medical,20.0%,3216,34,Very Hard
+19,Sciq Default,Science,20.0%,3201,34,Very Hard
+20,Xnli En,Multilingual,20.0%,3213,34,Very Hard
+21,Paws-X En,Multilingual,20.0%,3190,34,Very Hard
+22,Wikitext Wikitext-2-,Lm,26.7%,3214,34,Very Hard
+23,Wikitext Wikitext-10,Lm,26.7%,3238,34,Very Hard
